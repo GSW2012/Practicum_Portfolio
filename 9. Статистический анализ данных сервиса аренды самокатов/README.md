@@ -8,6 +8,5 @@
 - Pandas
 - Matplotlib
 - Seaborn
-- Plotly
 - Numpy
 - Scipy
