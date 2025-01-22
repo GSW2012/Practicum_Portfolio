@@ -5,7 +5,7 @@
 ## Инструменты
 - Python
 ## Библиотеки
-- Pandas
+- Pandas 
 - Matplotlib
 - Seaborn
 - Numpy
