@@ -22,4 +22,4 @@
 
 ## Диплом о прохождении курса
 ![Диплом на русском](https://github.com/user-attachments/assets/8af4fd62-9267-4fb1-99b1-6b0623b6d49b)
-![Диплом на английском](https://github.com/user-attachments/assets/9c5d6f04-07ca-4cdc-b290-94145d155cbc)
+![Диплом на русском_Страница_2](https://github.com/user-attachments/assets/23c00b98-f9c9-4755-8c09-739aaf6cf05a)
