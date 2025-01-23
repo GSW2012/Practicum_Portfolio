@@ -19,3 +19,7 @@
 | [11. Разработка стратегии взаимодействия с клиентами](https://github.com/GSW2012/Practicum-Portfolio/blob/main/11.%20Разработка%20стратегии%20машинным%20обучением/Разработка%20стратегии%20взаимодействия%20с%20клиентами.ipynb)               |  Анализ и подготовка плана действий по удержанию клиентов с применением инструментов машинного обучения.                                | `Python`, `Pandas`, `Matplotlib`, `Seaborn`, `Numpy`, `Scikit-learn`            |****
 | [12. Исследование данных интернет-магазина компьютерных игр](https://github.com/GSW2012/Practicum-Portfolio/blob/main/12.%20Исследование%20данных%20интернет-магазина/Исследование%20данных%20интернет-магазина%20Стримчик.ipynb)               |  Исследовательский анализ данных с целью прогнозирования рекламных кампаний на следующий период.                                | `Python`, `Pandas`, `Matplotlib`, `Seaborn`, `Numpy`, `Scikit-learn`, `Plotly`            |****
 | [13. Анализ оттока клиентов банка](https://github.com/GSW2012/Practicum-Portfolio/blob/main/13.%20Анализ%20оттока%20клиентов%20банка/Анализ%20оттока%20клиентов%20банка.ipynb)               |  Анализ причин оттока клиентов и дальнейшие рекомендации по их удержанию.                                | `Python`, `Pandas`, `Matplotlib`, `Seaborn`, `Numpy`, `Scikit-learn`, `Plotly`, `Phik`           |****
+
+## Диплом о прохождении курса
+![image](https://github.com/user-attachments/assets/08b71b0b-a539-43b9-a494-3157e4b9026a)
+![image](https://github.com/user-attachments/assets/498ac6d4-8e57-498a-a65f-56866922efd4)
