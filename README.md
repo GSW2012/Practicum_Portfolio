@@ -21,5 +21,5 @@
 | [13. Анализ оттока клиентов банка](https://github.com/GSW2012/Practicum-Portfolio/blob/main/13.%20Анализ%20оттока%20клиентов%20банка/Анализ%20оттока%20клиентов%20банка.ipynb)               |  Анализ причин оттока клиентов и дальнейшие рекомендации по их удержанию.                                | `Python`, `Pandas`, `Matplotlib`, `Seaborn`, `Numpy`, `Scikit-learn`, `Plotly`, `Phik`           |****
 
 ## Диплом о прохождении курса
-[Диплом_RU_Афонин_2025-7412-004.pdf](https://github.com/user-attachments/files/18521543/_RU_._2025-7412-004.pdf)
-[Сertificate_ENG_Афонин_2025-7412-004.pdf](https://github.com/user-attachments/files/18521544/ertificate_ENG_._2025-7412-004.pdf)
+![Диплом на русском](https://github.com/user-attachments/assets/8af4fd62-9267-4fb1-99b1-6b0623b6d49b)
+![Диплом на английском](https://github.com/user-attachments/assets/9c5d6f04-07ca-4cdc-b290-94145d155cbc)
